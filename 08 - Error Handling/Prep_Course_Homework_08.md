@@ -18,3 +18,6 @@ Se puede usar "raise ValueError()" en la creación de la clase para verificar el
 7) Agregar casos de pruebas para el método conversion_grados()
 
 8) Agregar casos de pruebas para el método factorial()
+
+## A continucación, una práctica con un formato similiar al que se toma en los Henry Challenge!
+9) Completar el codigo en las fucniones del archivo "checkpoint.py" y probarlo a partir de la ejecucion del script "test.py"
