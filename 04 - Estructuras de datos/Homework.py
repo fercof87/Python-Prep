@@ -26,8 +26,7 @@ print(ciudades)
 # RESPUESTA: NO ARROJA NINGUN ERROR. LA LISTA ADMITE DUPLICADOS
 
 # 8) Agregar otra ciudad, pero en la cuarta posición
-ciudades[3] = "Medellin"
-#ciudades.insert(3, "Medellin")
+ciudades.insert(3, "Medellin")
 print(ciudades)
 
 # 9) Concatenar otra lista a la ya creada
@@ -105,7 +104,12 @@ dicc = {  'Ciudad': ciudades,
 print (dicc)
 
 # 24) Imprimir las claves del diccionario
+print("\n\n INICIO 24 \n\n")
+print("\n\n KEYS 24 \n\n")
 print(dicc.keys())
+print("\n\n ITEMS 24 \n\n")
+print(dicc.items())
+print("\n\n FIN 24 \n\n")
 
 # 25) Imprimir las ciudades a través de su clave
 print(dicc["Ciudad"])
